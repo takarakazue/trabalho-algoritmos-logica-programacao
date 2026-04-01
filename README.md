@@ -34,13 +34,13 @@ Caso algum critério não seja atendido, a peça será reprovada, e o sistema re
 
 ## Funcionalidades
 
-1. Cadastrar nova peça
-2. Listar peças aprovadas/reprovadas
-3. Remover peça cadastrada
-4. Listar caixas fechadas
-5. Gerar relatório final
-6. Listar caixa aberta (extra)
-0. Sair
+- 1. Cadastrar nova peça
+- 2. Listar peças aprovadas/reprovadas
+- 3. Remover peça cadastrada
+- 4. Listar caixas fechadas
+- 5. Gerar relatório final
+- 6. Listar caixa aberta (extra)
+- 0. Sair
 
 ---
 
