@@ -488,7 +488,7 @@ def exibir_menu():
     print("3. Remover peça cadastrada")
     print("4. Listar caixas fechadas")
     print("5. Gerar relatório final")
-    print("6. Listar caixa aberta (extra)")
+    print("6. Listar caixa aberta")
     print("0. Sair")
 
     print(f"{Fore.MAGENTA}{'#' * 60}")
