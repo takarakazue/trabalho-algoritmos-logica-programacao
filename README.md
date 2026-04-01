@@ -40,7 +40,7 @@ Caso algum critério não seja atendido, a peça será reprovada, e o sistema re
 4. Listar caixas fechadas
 5. Gerar relatório final
 6. Listar caixa aberta (extra)
-7. Sair
+0. Sair
 
 ---
 
